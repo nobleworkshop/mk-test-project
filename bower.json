@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "bootstrap": "bootstrap-3.2#^3.3.7",
-    "normalize-css": "normalize.css#^7.0.0"
+    "normalize-css": "normalize.css#^7.0.0",
+    "reset-css": "^2.2.1"
   }
 }
